@@ -1,5 +1,8 @@
 # Online Auction Platform [Laravel + React]
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab03b87c-9383-4cc1-a559-72c36818a2bd/deploy-status)](https://app.netlify.com/sites/online-auction-platform/deploys)
+
+
 Welcome to our Online Auction Platform! This platform provides a safe and easy way for buyers and sellers to connect and trade items through online auctions.
 
 ## Features
